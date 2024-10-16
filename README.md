@@ -20,8 +20,8 @@ Our system utilizes the following components:
 ## Project Structure
 
 - `src/`: Contains the source code for the project.
-- `docs/`: Documentation related to system architecture, sensor wiring, and flow diagrams.
-- `schematics/`: Circuit diagrams and schematics of the system.
+- `docs/`: Documentation related to system architecture, and sensor wiring.
+-      Note that this wiring can be changed following the source code to the pin outputs and inputs... This can give you a basic idea...
 - `tests/`: Unit tests for key functionalities of the system.
 
 ## Getting Started
